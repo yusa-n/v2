@@ -1,5 +1,5 @@
-import { logger } from "@v1/logger";
-import { createClient } from "@v1/supabase/server";
+import { logger } from "@v2/logger";
+import { createClient } from "@v2/supabase/server";
 import type { Database, Tables, TablesUpdate } from "../types";
 
 export async function updateUser(userId: string, data: TablesUpdate<"users">) {

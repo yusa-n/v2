@@ -5,7 +5,7 @@ import {
   TooltipContent,
   TooltipProvider,
   TooltipTrigger,
-} from "@v1/ui/tooltip";
+} from "@v2/ui/tooltip";
 
 export default function Page() {
   return (
@@ -19,7 +19,7 @@ export default function Page() {
 
       <p className="relative z-10 text-center max-w-[80%] mt-0 md:mt-4">
         An open-source starter kit based on{" "}
-        <a href="https://midday.ai?utm_source=v1" className="underline">
+        <a href="https://midday.ai?utm_source=v2" className="underline">
           Midday
         </a>
         .
@@ -31,7 +31,7 @@ export default function Page() {
       </span> */}
 
       <div className="mt-10 mb-8">
-        <CopyText value="bunx degit midday-ai/v1 v1" />
+        <CopyText value="bunx degit midday-ai/v2 v2" />
       </div>
 
       <TooltipProvider delayDuration={0}>

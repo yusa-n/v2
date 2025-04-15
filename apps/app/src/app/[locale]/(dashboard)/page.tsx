@@ -1,6 +1,6 @@
 import { SignOut } from "@/components/sign-out";
 import { getI18n } from "@/locales/server";
-import { getUser } from "@v1/supabase/queries";
+import { getUser } from "@v2/supabase/queries";
 
 export const metadata = {
   title: "Home",

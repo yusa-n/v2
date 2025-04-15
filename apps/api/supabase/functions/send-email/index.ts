@@ -1,4 +1,4 @@
-import { WelcomeEmail } from "@v1/emails/welcome";
+import { WelcomeEmail } from "@v2/emails/welcome";
 import React from "react";
 import { render } from "react-email/components";
 import { Resend } from "resend";
@@ -39,9 +39,9 @@ Deno.serve(async (req) => {
       const html = await render(React.createElement(WelcomeEmail));
 
       await resend.emails.send({
-        from: "Create v1 <onboarding@resend.dev>",
+        from: "Create v2 <onboarding@resend.dev>",
         to: [user.email],
-        subject: "Welcome to v1",
+        subject: "Welcome to v2",
         html,
       });
 
