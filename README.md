@@ -7,8 +7,8 @@
     An open-source starter kit based on <a href="https://midday.ai">Midday</a>.
     <br />
     <br />
-    <a href="https://v2.run"><strong>Website</strong></a> · 
-    <a href="https://github.com/midday-ai/v2/issues"><strong>Issues</strong></a> · 
+    <a href="https://curino.co"><strong>Website</strong></a> · 
+    <a href="https://github.com/yusa-n/v2/issues"><strong>Issues</strong></a> · 
     <a href="#whats-included"><strong>What's included</strong></a> ·
     <a href="#prerequisites"><strong>Prerequisites</strong></a> ·
     <a href="#getting-started"><strong>Getting Started</strong></a> ·
@@ -83,7 +83,7 @@ OpenPanel<br>
 Clone this repo locally with the following command:
 
 ```bash
-bunx degit midday-ai/v2 v2
+bunx degit yusa-n/v2 v2
 ```
 
 1. Install dependencies using bun:

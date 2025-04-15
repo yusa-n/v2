@@ -32,7 +32,7 @@ export function Header() {
         <ul className="flex items-center gap-4">
           <li>
             <a
-              href="https://github.com/midday-ai/v2"
+              href="https://github.com/yusa-n/v2"
               className="text-sm px-4 py-2 bg-primary text-secondary rounded-full font-medium"
             >
               Github
