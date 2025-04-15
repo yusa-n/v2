@@ -6,7 +6,7 @@ export function Footer() {
       <div className="relative flex overflow-x-hidden space-x-6">
         <div className="flex items-center space-x-6 animate-marquee whitespace-nowrap lg:animate-none">
           <a
-            href="https://vercel.com?utm_source=v1"
+            href="https://vercel.com?utm_source=v2"
             target="_blank"
             rel="noopener noreferrer"
           >
@@ -24,7 +24,7 @@ export function Footer() {
           </a>
 
           <a
-            href="https://supabase.com?utm_source=v1"
+            href="https://supabase.com?utm_source=v2"
             target="_blank"
             rel="noopener noreferrer"
           >
@@ -95,7 +95,7 @@ export function Footer() {
           </a>
 
           <a
-            href="https://trigger.dev?utm_source=v1"
+            href="https://trigger.dev?utm_source=v2"
             target="_blank"
             rel="noopener noreferrer"
           >
@@ -172,7 +172,7 @@ export function Footer() {
           </a>
 
           <a
-            href="https://cal.com?utm_source=v1"
+            href="https://cal.com?utm_source=v2"
             target="_blank"
             rel="noopener noreferrer"
           >
@@ -212,7 +212,7 @@ export function Footer() {
           </a>
 
           <a
-            href="https://resend.com?utm_source=v1"
+            href="https://resend.com?utm_source=v2"
             target="_blank"
             rel="noopener noreferrer"
           >
@@ -230,7 +230,7 @@ export function Footer() {
           </a>
 
           <a
-            href="https://upstash.com?utm_source=v1"
+            href="https://upstash.com?utm_source=v2"
             target="_blank"
             rel="noopener noreferrer"
           >
@@ -293,7 +293,7 @@ export function Footer() {
           </a>
 
           <a
-            href="https://dub.sh?utm_source=v1"
+            href="https://dub.sh?utm_source=v2"
             target="_blank"
             rel="noopener noreferrer"
           >
@@ -326,7 +326,7 @@ export function Footer() {
           </a>
 
           <a
-            href="https://kenshu.team/?utm_source=v1"
+            href="https://kenshu.team/?utm_source=v2"
             target="_blank"
             rel="noopener noreferrer"
           >
@@ -365,7 +365,7 @@ export function Footer() {
           </a>
 
           <a
-            href="https://turbo.build/?utm_source=v1"
+            href="https://turbo.build/?utm_source=v2"
             target="_blank"
             rel="noopener noreferrer"
           >
@@ -419,7 +419,7 @@ export function Footer() {
             </svg>
           </a>
           <a
-            href="https://polar.sh/?utm_source=v1"
+            href="https://polar.sh/?utm_source=v2"
             target="_blank"
             rel="noopener noreferrer"
           >
@@ -481,7 +481,7 @@ export function Footer() {
 
         <div className="flex items-center space-x-6 animate-marquee2 whitespace-nowrap absolute top-0 lg:hidden">
           <a
-            href="https://vercel.com?utm_source=v1"
+            href="https://vercel.com?utm_source=v2"
             target="_blank"
             rel="noopener noreferrer"
           >
@@ -499,7 +499,7 @@ export function Footer() {
           </a>
 
           <a
-            href="https://cal.com?utm_source=v1"
+            href="https://cal.com?utm_source=v2"
             target="_blank"
             rel="noopener noreferrer"
           >
@@ -539,7 +539,7 @@ export function Footer() {
           </a>
 
           <a
-            href="https://supabase.com?utm_source=v1"
+            href="https://supabase.com?utm_source=v2"
             target="_blank"
             rel="noopener noreferrer"
           >
@@ -610,7 +610,7 @@ export function Footer() {
           </a>
 
           <a
-            href="https://trigger.dev?utm_source=v1"
+            href="https://trigger.dev?utm_source=v2"
             target="_blank"
             rel="noopener noreferrer"
           >
@@ -687,7 +687,7 @@ export function Footer() {
           </a>
 
           <a
-            href="https://resend.com?utm_source=v1"
+            href="https://resend.com?utm_source=v2"
             target="_blank"
             rel="noopener noreferrer"
           >
@@ -705,7 +705,7 @@ export function Footer() {
           </a>
 
           <a
-            href="https://upstash.com?utm_source=v1"
+            href="https://upstash.com?utm_source=v2"
             target="_blank"
             rel="noopener noreferrer"
           >
@@ -768,7 +768,7 @@ export function Footer() {
           </a>
 
           <a
-            href="https://dub.sh?utm_source=v1"
+            href="https://dub.sh?utm_source=v2"
             target="_blank"
             rel="noopener noreferrer"
           >
@@ -801,7 +801,7 @@ export function Footer() {
           </a>
 
           <a
-            href="https://kenshu.team/?utm_source=v1"
+            href="https://kenshu.team/?utm_source=v2"
             target="_blank"
             rel="noopener noreferrer"
           >
@@ -840,7 +840,7 @@ export function Footer() {
           </a>
 
           <a
-            href="https://turbo.build/?utm_source=v1"
+            href="https://turbo.build/?utm_source=v2"
             target="_blank"
             rel="noopener noreferrer"
           >
@@ -894,7 +894,7 @@ export function Footer() {
             </svg>
           </a>
           <a
-            href="https://polar.sh/?utm_source=v1"
+            href="https://polar.sh/?utm_source=v2"
             target="_blank"
             rel="noopener noreferrer"
           >

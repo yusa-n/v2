@@ -1,17 +1,21 @@
 {
-  "name": "v1",
+  "name": "v2",
   "private": true,
-  "workspaces": ["packages/*", "apps/*", "tooling/*"],
+  "workspaces": [
+    "packages/*",
+    "apps/*",
+    "tooling/*"
+  ],
   "scripts": {
     "build": "turbo build",
     "clean": "git clean -xdf node_modules",
     "clean:workspaces": "turbo clean",
     "dev": "turbo dev --parallel",
-    "dev:web": "turbo dev --filter=@v1/web",
-    "dev:jobs": "turbo jobs --filter=@v1/jobs",
-    "dev:app": "turbo dev --filter=@v1/app",
-    "start:web": "turbo start --filter=@v1/web",
-    "start:app": "turbo start --filter=@v1/app",
+    "dev:web": "turbo dev --filter=@v2/web",
+    "dev:jobs": "turbo jobs --filter=@v2/jobs",
+    "dev:app": "turbo dev --filter=@v2/app",
+    "start:web": "turbo start --filter=@v2/web",
+    "start:app": "turbo start --filter=@v2/app",
     "test": "turbo test --parallel",
     "format": "biome format --write .",
     "lint": "turbo lint && bun lint:repo",

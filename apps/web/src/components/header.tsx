@@ -7,7 +7,7 @@ import {
   DialogHeader,
   DialogTitle,
   DialogTrigger,
-} from "@v1/ui/dialog";
+} from "@v2/ui/dialog";
 import Image from "next/image";
 import Link from "next/link";
 import { SubscribeForm } from "./subscribe-form";
@@ -15,7 +15,7 @@ import { SubscribeForm } from "./subscribe-form";
 export function Header() {
   return (
     <header className="absolute top-0 w-full flex items-center justify-between p-4 z-10">
-      <span className="hidden md:block text-sm font-medium">v1.run</span>
+      <span className="hidden md:block text-sm font-medium">v2.run</span>
 
       <Link href="/">
         <Image
@@ -32,7 +32,7 @@ export function Header() {
         <ul className="flex items-center gap-4">
           <li>
             <a
-              href="https://github.com/midday-ai/v1"
+              href="https://github.com/midday-ai/v2"
               className="text-sm px-4 py-2 bg-primary text-secondary rounded-full font-medium"
             >
               Github
@@ -57,7 +57,7 @@ export function Header() {
 
                 <div className="flex flex-col gap-4">
                   <SubscribeForm
-                    group="v1-newsletter"
+                    group="v2-newsletter"
                     placeholder="Email address"
                   />
                 </div>
